@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+.header {
+    background-image: url(header.jpg);
+    background-size: cover;
+}
+h1 {
+    color: white;
+    text-align: center;
+    padding: 30px 0px;
+}
+.container {
+    max-width: 35%;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 20px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.button {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold; 
+    padding: 1rem;
+    color:darkmagenta; 
+    border: solid darkmagenta;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+main {
+    flex-grow: 1;
+}
+.footer {
+    background-color:lightpink;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 20px 10px;
+    color:darkmagenta; 
+}
