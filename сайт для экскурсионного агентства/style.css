@@ -1,0 +1,30 @@
+    /* тёмно-коричневый color: rgb(74, 20, 20); */
+    /* голубой color: deepskyblue; */
+    /* зеленая мята color: springgreen; */
+    /* лайм color: lime; */
+    /* пурпурно-розовый color: deeppink; */
+    /* лимонно-желтый color: yellow; */
+.create {
+    background-color: springgreen;
+}
+.send {
+    background-color: deepskyblue;
+}
+footer {
+    background-color: rgba(0, 191, 255, 0.5);
+}
+.form-select {
+    border-color: rgb(74, 20, 20); 
+}
+#route-name {
+    color: deeppink;
+}
+h5 {
+    background-color: rgba(255, 255, 0, 0.7);
+}
+#itog-price {
+    background-color: lime;
+}
+    
+
+    
