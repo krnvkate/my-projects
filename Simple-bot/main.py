@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import psycopg2
 import datetime
-token = '6484370705:AAGCtmjuxLhNApuy_gDWTpNBWECg0Htr9HM'
+token = ''
 bot = telebot.TeleBot(token)
 
 #подключение к базе данных
